@@ -1,0 +1,12 @@
+{
+ "friends": [
+ 	{"name":"Alberto", "hobbie":"videojuegos", "age":"21", "phone": "4432271370", "address": "Guadalajara"},
+ 	{"name":"Diego", "hobbie":"videojuegos", "age":"20", "phone": "3355623230", "address": "Guadalajara"},
+ 	{"name":"Otro Alberto", "hobbie":"comer", "age":"20", "phone": "3320156982", "address": "Guadalajara"},
+ 	{"name":"César", "hobbie":"??", "age":"20", "phone": "336975201", "address": "Guadalajara"},
+ 	{"name":"Emmanuel", "hobbie":"smashear", "age":"21", "phone": "3321569852", "address": "Guadalajara"},
+ 	{"name":"Shoab", "hobbie":"smashear", "age":"22", "phone": "3301232201", "address": "Guadalajara"}
+ 	{"name":"Shisho", "hobbie":"smashear", "age":"22", "phone": "491232201", "address": "Guadalajara"}
+ 	{"name":"Samp", "hobbie":"pendejear", "age":"23", "phone": "491263001", "address": "Guadalajara"}
+ ]
+}
